@@ -1,0 +1,6 @@
+bootstrap-admin==0.3.7.1
+Django==1.7.1
+forecastiopy==0.1
+Markdown==2.6.8
+Pygments==2.2.0
+requests==2.13.0
