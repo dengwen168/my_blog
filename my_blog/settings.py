@@ -24,7 +24,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '120.77.86.3']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.linlipai.com']
 
 
 # Application definition
